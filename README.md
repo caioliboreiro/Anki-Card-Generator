@@ -28,3 +28,8 @@ Built with:
 
 ```bash
 pip install beautifulsoup4 requests
+```
+
+## How to use it
+
+In order to use it, replace inside the code your deckname and modelname with your own. The code must be executed with `python autoankicards.py` while Anki is open with AnkiConnect.
